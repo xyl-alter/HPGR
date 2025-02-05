@@ -3,6 +3,7 @@ python main2.py --datasets cora computers laftfm facebook \
  --eps-list 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 \
  --methods blink hpgr \
  --variant soft hard  \
+ --delta-list 0.1 0.4 0.7 1.0 \
  --sbm-ratio-list 0.1 0.4 0.7 0.9 \
  --split-percentage 0.5 0.25 \
  --device cuda:0 \
