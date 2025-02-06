@@ -1,6 +1,6 @@
 Supplementary materials for the submission of papers for the EDBT 2026 conference. 
 
-To reproduce the results, run "sh run.sh".
+"run.sh" provides an example of running our code.
 
 Parameter interpretation:
 
