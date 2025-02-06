@@ -7,5 +7,6 @@ python main2.py --datasets cora computers laftfm facebook \
  --sbm-ratio-list 0.1 0.4 0.7 0.9 \
  --split-percentage 0.5 0.25 \
  --device cuda:0 \
- --save-root ./results/ 
+ --save-root ./results/ \
+ --tau 0 1
 
